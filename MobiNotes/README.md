@@ -1,4 +1,4 @@
-# Notes+
+# MoboNotes
 
 A simple dynamic website for notes aggregation by students
 
